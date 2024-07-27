@@ -1,2 +1,3 @@
 language = "html"
 run = "SUB"
+modules = ["nodejs-20"]
